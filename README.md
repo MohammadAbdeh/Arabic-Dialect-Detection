@@ -97,8 +97,5 @@ Outlined the contributions of the work and summarized the results.
 
 ### References
 
-1. Ali, Ahmed, et al. "The MGB-3 Arabic dialect speech recognition challenge." 2017 IEEE Automatic Speech Recognition and Understanding Workshop (ASRU). IEEE, 2017.
-2. Ali, Ahmed, et al. "A complete KALDI recipe for building Arabic speech recognition systems." Proceedings of the 2017 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2017.
-3. El-Haj, Mahmoud, Reem Suwaileh, and Paul Rayson. "Multidialect Arabic Corpus for Text Classification." Proceedings of the 11th International Conference on Language Resources and Evaluation (LREC 2018). 2018.
-4. Safaya, Ali, Moutasem Abdullatif, and Deniz Yuret. "KUISAIL at SemEval-2020 task 12: BERT-CNN for offensive speech identification in social media." Proceedings of the Fourteenth Workshop on Semantic Evaluation. 2020.
+1.Mostafa Samir Abdelrahman Mattar Hesham Al-Bataineh Mohammad Zaghloul Ahmad Mustafa Bashar Talafha Abed Alhakim Freihat Ahmad Ragab, Haitham Seelawi and Hussein T. Al-Natsheh. Mawdoo3 ai at madar shared task: Arabic ne-grained dialect identication with ensemble learning. 2019.
 
