@@ -93,6 +93,7 @@ For a detailed discussion on methods and results, please refer to the [Medium ar
 ### References
 
 [1] Younes Samih, Sabit Hassan, Ahmed Abdelali, Hamdy Mubarak, and Kareem Darwish. Arabic Dialect Identification in the Wild. 2020.
+
 [2] Ali Safaya, Moutasem Abdullatif, and Deniz Yuret. KUISAIL at SemEval-2020 Task 12: BERT-CNN for Offensive Speech Identification in Social Media. In Proceedings of the Fourteenth Workshop on Semantic Evaluation, pages 2054–2059, Barcelona (online), December 2020. International Committee for Computational Linguistics.
 
 
