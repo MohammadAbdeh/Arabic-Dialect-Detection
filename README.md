@@ -2,7 +2,7 @@
 
 ### January 2021
 
-### Abstract
+For a detailed discussion on methods and results, please refer to the [Medium article](https://medium.com/@mohammadabdeh974/tweet-level-arabic-dialect-identification-1f3b2bd6a555).
 
 In this work, we consider the task of tweet-level ADI using the recently proposed QADI dataset [1]. We compare the results of training and testing the following standalone models:
 - The base ArabicBERT [2], a pretrained BERT-base language model for Arabic.
@@ -82,8 +82,6 @@ The Classification errors can be categorized into the following categories:
 Based on inspecting some misclassified tweets, we argue that this mismatch between neighboring countries is caused by the fact that in some cases, a tweet can be classified accurately by more that one dialect. For instance, the tweet “هذا اللي يقولك يموت ولا ينسى” “This is what they say he dies and never forgets” can be classified as any of the Gulf dialects.
 
 By inspecting the misclassified tweets in cases where the misclassified dialect is from another region, we observed that the reason of this mismatch is that the tweets are either too short or include some common phrase that can be used by any Arab . For example: the tweet “ههه الله يهدي البال”, “hhh may god give piece of mind”, includes only a quote used in almost all the Arabic countries regardless of the region.
-
-For a detailed discussion on methods and results, please refer to the [Medium article](https://medium.com/@mohammadabdeh974/tweet-level-arabic-dialect-identification-1f3b2bd6a555).
 
 ### References
 
